@@ -1,3 +1,3 @@
 # custom-object-detection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quotify-Bot/model-training/blob/main/Fine_Tune_GPT2.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StatisticsHackathon/custom-object-detection/blob/main/Custom_Object_Detection.ipynb)  
